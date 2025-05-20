@@ -137,6 +137,6 @@ You’ll find the following results in `runs/detect/train4/`:
 
 ---
 
-## 🔐 License
+## 👤Author
 
-This project is licensed under the MIT License.
+- Arnav Pundir
