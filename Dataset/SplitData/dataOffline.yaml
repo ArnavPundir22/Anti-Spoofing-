@@ -1,0 +1,7 @@
+path: /home/dell/AntiSpoofing/Dataset/SplitData
+train: train/images
+val: val/
+test: test/images
+
+nc: 2
+names: ['fake', 'real']
